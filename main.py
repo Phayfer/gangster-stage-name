@@ -68,4 +68,6 @@ while count <= totStageName:
     print("Regular name:", regularName)
     print("Generated stage name:", stageName)
 
+    print("end")
+
 
